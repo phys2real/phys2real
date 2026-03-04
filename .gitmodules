@@ -1,0 +1,9 @@
+[submodule "isaaclab-phys2real"]
+	path = isaaclab-phys2real
+	url = https://github.com/phys2real/isaaclab-phys2real.git
+[submodule "rl_games_isaacsim"]
+	path = rl_games_isaacsim
+	url = https://github.com/phys2real/rl_games_isaacsim.git
+[submodule "sim-to-real-rl"]
+	path = sim-to-real-rl
+	url = https://github.com/phys2real/sim-to-real-rl.git
